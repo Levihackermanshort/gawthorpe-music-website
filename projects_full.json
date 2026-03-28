@@ -1,0 +1,214 @@
+﻿{
+  "status": "success",
+  "result": [
+    {
+      "projectId": "quantum-botcore",
+      "projectNumber": "762239477673",
+      "displayName": "Quantum-BOTCORE",
+      "name": "projects/quantum-botcore",
+      "resources": {
+        "hostingSite": "quantum-botcore"
+      },
+      "state": "ACTIVE",
+      "etag": "1_a37aaccd-e95c-4362-97d2-40f9eb3b5644"
+    },
+    {
+      "projectId": "samajh-my-gal-11959294-e4af4",
+      "projectNumber": "421616457090",
+      "displayName": "Firebase app",
+      "name": "projects/samajh-my-gal-11959294-e4af4",
+      "resources": {
+        "hostingSite": "samajh-my-gal-11959294-e4af4"
+      },
+      "state": "ACTIVE",
+      "etag": "1_3b638496-ec96-4b7a-817f-59eefc3ce486"
+    },
+    {
+      "projectId": "sample-firebase-ai-app-60c36",
+      "projectNumber": "792458780299",
+      "displayName": "Sample Firebase AI App",
+      "name": "projects/sample-firebase-ai-app-60c36",
+      "resources": {
+        "hostingSite": "sample-firebase-ai-app-60c36"
+      },
+      "state": "ACTIVE",
+      "etag": "1_ff10579a-a397-4e6a-8475-256f643243cc"
+    },
+    {
+      "projectId": "studio-1948390387-69ecd",
+      "projectNumber": "872953035519",
+      "displayName": "Firebase app",
+      "name": "projects/studio-1948390387-69ecd",
+      "resources": {
+        "hostingSite": "studio-1948390387-69ecd"
+      },
+      "state": "ACTIVE",
+      "etag": "1_18c3bb62-df27-4ab3-9935-d2d7dbbb2a23"
+    },
+    {
+      "projectId": "studio-3531241817-10daa",
+      "projectNumber": "910575384405",
+      "displayName": "Firebase app",
+      "name": "projects/studio-3531241817-10daa",
+      "resources": {
+        "hostingSite": "studio-3531241817-10daa"
+      },
+      "state": "ACTIVE",
+      "etag": "1_1ef745e0-e832-4b12-8556-a814cdbf727a"
+    },
+    {
+      "projectId": "studio-3924320128-941a9",
+      "projectNumber": "128350506061",
+      "displayName": "Firebase app",
+      "name": "projects/studio-3924320128-941a9",
+      "resources": {
+        "hostingSite": "studio-3924320128-941a9"
+      },
+      "state": "ACTIVE",
+      "etag": "1_543d0e5f-340f-41e0-8481-78ae464c9641"
+    },
+    {
+      "projectId": "studio-595010266-7cfd0",
+      "projectNumber": "82644474971",
+      "displayName": "Firebase app",
+      "name": "projects/studio-595010266-7cfd0",
+      "resources": {
+        "hostingSite": "studio-595010266-7cfd0"
+      },
+      "state": "ACTIVE",
+      "etag": "1_dddf0e91-1605-4c4a-8854-c87347aba1d4"
+    },
+    {
+      "projectId": "studio-6419529346-e35fc",
+      "projectNumber": "676741155283",
+      "displayName": "Firebase app",
+      "name": "projects/studio-6419529346-e35fc",
+      "resources": {
+        "hostingSite": "studio-6419529346-e35fc"
+      },
+      "state": "ACTIVE",
+      "etag": "1_8ef285db-aeb1-4a3b-ab1f-7b816e64dec4"
+    },
+    {
+      "projectId": "studio-6747160622-f8313",
+      "projectNumber": "960134404735",
+      "displayName": "Fedora Muse",
+      "name": "projects/studio-6747160622-f8313",
+      "resources": {
+        "hostingSite": "studio-6747160622-f8313"
+      },
+      "state": "ACTIVE",
+      "etag": "1_4219392e-7ff8-4e92-9e8e-b9ee0d20b714"
+    },
+    {
+      "projectId": "studio-7032400098-56608",
+      "projectNumber": "171597132720",
+      "displayName": "Firebase app",
+      "name": "projects/studio-7032400098-56608",
+      "resources": {
+        "hostingSite": "studio-7032400098-56608"
+      },
+      "state": "ACTIVE",
+      "etag": "1_a1a956d5-cc02-4f9d-9471-f96bba232f5c"
+    },
+    {
+      "projectId": "studio-7205873187-91811",
+      "projectNumber": "314219792148",
+      "displayName": "Firebase app",
+      "name": "projects/studio-7205873187-91811",
+      "resources": {
+        "hostingSite": "studio-7205873187-91811"
+      },
+      "state": "ACTIVE",
+      "etag": "1_8aada3cf-5572-490d-a44a-9b94418fd867"
+    },
+    {
+      "projectId": "studio-7885531818-5656b",
+      "projectNumber": "997518275376",
+      "displayName": "Firebase app",
+      "name": "projects/studio-7885531818-5656b",
+      "resources": {
+        "hostingSite": "studio-7885531818-5656b"
+      },
+      "state": "ACTIVE",
+      "etag": "1_7625bfcf-6afe-464f-b127-7a8f0fe14e51"
+    },
+    {
+      "projectId": "studio-8342893983-b777e",
+      "projectNumber": "136000071052",
+      "displayName": "Firebase app",
+      "name": "projects/studio-8342893983-b777e",
+      "resources": {
+        "hostingSite": "studio-8342893983-b777e"
+      },
+      "state": "ACTIVE",
+      "etag": "1_5466825b-d77d-46b4-9e57-853c02192964"
+    },
+    {
+      "projectId": "studio-8536136694-e6b9d",
+      "projectNumber": "262767863307",
+      "displayName": "Firebase app",
+      "name": "projects/studio-8536136694-e6b9d",
+      "resources": {
+        "hostingSite": "studio-8536136694-e6b9d"
+      },
+      "state": "ACTIVE",
+      "etag": "1_c44b40ca-78fc-4065-8290-b75ae145c8b9"
+    },
+    {
+      "projectId": "studio-9099432488-ddbf6",
+      "projectNumber": "688643745979",
+      "displayName": "Firebase app",
+      "name": "projects/studio-9099432488-ddbf6",
+      "resources": {
+        "hostingSite": "studio-9099432488-ddbf6"
+      },
+      "state": "ACTIVE",
+      "etag": "1_b7c806ac-6e54-4dbc-ba47-533fd62eb6a9"
+    },
+    {
+      "projectId": "studio-9295082041-3862f",
+      "projectNumber": "851883094965",
+      "displayName": "Firebase app",
+      "name": "projects/studio-9295082041-3862f",
+      "resources": {
+        "hostingSite": "studio-9295082041-3862f"
+      },
+      "state": "ACTIVE",
+      "etag": "1_5d0a6d16-5ff1-4bcc-9ef1-56b08e178c53"
+    },
+    {
+      "projectId": "studio-9319250396-4095f",
+      "projectNumber": "690624239430",
+      "displayName": "Firebase app",
+      "name": "projects/studio-9319250396-4095f",
+      "resources": {
+        "hostingSite": "studio-9319250396-4095f"
+      },
+      "state": "ACTIVE",
+      "etag": "1_ea95bdfa-eb22-4f06-af13-dfa60104261a"
+    },
+    {
+      "projectId": "studio-9632706542-2990c",
+      "projectNumber": "138072589987",
+      "displayName": "Firebase app",
+      "name": "projects/studio-9632706542-2990c",
+      "resources": {
+        "hostingSite": "studio-9632706542-2990c"
+      },
+      "state": "ACTIVE",
+      "etag": "1_34d2c9da-7946-4f28-8f8c-faf27bb53bf0"
+    },
+    {
+      "projectId": "studio-9866060073-80c22",
+      "projectNumber": "17596274869",
+      "displayName": "Firebase app",
+      "name": "projects/studio-9866060073-80c22",
+      "resources": {
+        "hostingSite": "studio-9866060073-80c22"
+      },
+      "state": "ACTIVE",
+      "etag": "1_e3b5c0d4-24ce-4c40-8ead-cbb9fb06ea59"
+    }
+  ]
+}
