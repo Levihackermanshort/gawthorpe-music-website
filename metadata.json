@@ -1,0 +1,12 @@
+{
+  "name": "GTMCE Entertainment",
+  "description": "Prestige digital platform for GTMCE Entertainment — showcasing underground music, custom record EPs, artist management, and premium digital ticketing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
